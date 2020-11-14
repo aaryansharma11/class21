@@ -1,2 +1,2 @@
-# class21
-my own library file bounceoff function
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
